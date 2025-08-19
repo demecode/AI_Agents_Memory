@@ -1,0 +1,23 @@
+# Standard library utilities
+uuid
+
+# Environment and configuration
+python-dotenv
+
+# Data validation and settings
+pydantic
+typing-extensions
+
+# LangChain core packages
+langchain
+langchain-core
+langchain-openai
+
+# LangGraph for agent workflows
+langgraph
+
+# Memory management
+langmem
+
+# OpenAI API (required for the models and embeddings used)
+openai
