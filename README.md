@@ -2,7 +2,6 @@
 
 # AI Agents Memory: Building Intelligent, Persistent Agents
 
-📺 **[Watch the full video explanation on YouTube]**
 
 ## Why Memory Matters for AI Agents
 
